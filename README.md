@@ -1,7 +1,7 @@
 # About
 
-<a href="/source/bower_components/doxxu/docs.ppt.png">
-  <img height="120" src="/source/bower_components/doxxu/docs.ppt.png" />
+<a href="https://raw.githubusercontent.com/botanicus/doxxu/master/docs.ppt.png">
+  <img height="120" src="https://raw.githubusercontent.com/botanicus/doxxu/master/docs.ppt.png" />
 </a>
 
 _Doxxu has been extracted from [pay-per-task.com](http://pay-per-task.com/contractors). Do you work as a contractor? Do you want to be **paid instantaneously** for **every task** you finish and **without dealing with** those pesky **invoices**? Check [pay-per-task.com](http://pay-per-task.com/contractors) out now!_
