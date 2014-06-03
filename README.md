@@ -1,6 +1,6 @@
 # About
 
-_Extracted from [pay-per-task.com](http://pay-per-task.com)_.
+_Extracted from [pay-per-task.com](http://pay-per-task.com/contractors). Do you work as a contractor? Imagine how awesome would it be to be paid instantaneously for every task you finish and without dealing with those pesky invoices? Check [pay-per-task.com](http://pay-per-task.com/contractors) out now!_
 
 TODO
 
