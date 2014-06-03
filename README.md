@@ -24,13 +24,14 @@ server {
   listen 80;
   server_name docs.pay-per-task.dev;
 
-  # This returns HTTP 200 on any route and serves app.html.
-  # Useful for HTML5 routing in AngularJS.
-  error_page 404 = /app.html;
 
   location / {
     index app.html;
-    root /webs/ppt/webs/docs.pay-per-task.com/bower_components/doxxu;
+    root /webs/ppt/bower_components/doxxu;
+
+    # This returns HTTP 200 on any
+    # route and serves app.html.
+    error_page 404 = /app.html;
   }
 
   location /source {
